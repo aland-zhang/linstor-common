@@ -983,6 +983,11 @@
                 "type": "BOR"
         },
         {
+                "name": "WARN_SHRINK_VOLUME",
+                "value": [1016, "MASK_WARN"],
+                "type": "BOR"
+        },
+        {
                 "name": "WARN_NOT_FOUND",
                 "value": [3000, "MASK_WARN"],
                 "type": "BOR"
